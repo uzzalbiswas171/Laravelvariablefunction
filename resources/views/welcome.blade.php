@@ -234,7 +234,171 @@
             </div>
         </div>
     </section>
+    <!-- Example: Add a Bootstrap-styled HTML block with custom CSS -->
+    <section class="bg-gray-100 py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6 mb-4 mb-md-0">
+                    <h2 class="fw-bold" style="color:#4250a0;">Why UzTech<br><span class="fw-bold" style="color:#4250a0;">HR and Payroll Software?</span></h2>
+                    <p class="mt-4" style="font-size:1.1rem;">
+                        UzTech Ltd. is doing relentless research on the HR and 
+                        <span class="fw-bold" style="color:#4250a0;">Payroll software</span>. With this only one product, our fame has emerged overall Bangladesh by our only one product UzTech. With our all-pervading efforts, UzTech becomes one of the best 
+                        <span class="fw-bold" style="color:#4250a0;">HR software in Bangladesh</span>. Our goal to make it 100% system based payroll software with your help.
+                    </p>
+                    <p>
+                        In anticipation of your valuable contribution to Jibika family.<br>
+                        Discover our best ever services
+                    </p>
+                    <div class="d-flex gap-3 mt-4">
+                        <a href="#" class="btn btn-success px-4 py-2 fw-bold shadow">More Details</a>
+                        <a href="#" class="btn btn-outline-dark px-4 py-2 fw-bold shadow">Best Support</a>
+                    </div>
+                </div>
+                <div class="col-md-6 text-center">
+                    <img src="https://www.shutterstock.com/image-vector/salary-payroll-system-online-income-260nw-2141983465.jpg" alt="HR and Payroll Software Illustration" class="img-fluid" style="max-width: 400px;">
+                </div>
+            </div>
+        </div>
+    </section>
 
+    <section class="py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6 text-center mb-4 mb-md-0">
+                    <img src="https://kit8.net/wp-content/uploads/edd/2022/04/Spescialist_kit8net-Collection-Header.jpg" alt="Specialty Illustration" class="img-fluid" style="max-width: 350px;">
+                </div>
+                <div class="col-md-6">
+                    <h2 class="fw-bold mb-3">Our <span style="color:#4250a0;">Specialty</span></h2>
+                    <p>
+                        UzTech is customized cloud-based payroll software. Our team is dedicated to customization of the HR & Payroll software as per the client’s requirements.
+                    </p>
+                    <ul class="list-unstyled">
+                        <li>• Informative design and user-friendly environment.</li>
+                        <li>• Web-based solution using most advanced dot net technology.</li>
+                        <li>• Internal auditing and transaction history check back system.</li>
+                        <li>• Assurance lifetime update facility as per labour law gazette.</li>
+                        <li>• Instant support using licensed team viewer and Skype.</li>
+                        <li>• Flexible to customize facility & Pluggability with any ERP.</li>
+                        <li>• Reducing manpower & assuring rich MIS.</li>
+                        <li>• Training on payroll software and providing skilled operators.</li>
+                        <li>• All type of attendance device integration facility to UzTech.</li>
+                        <li>• Providing attendance device with warranty and free service.</li>
+                        <li>• Providing dedicated Jibika expert at implementation period.</li>
+                        <li>• Software implementation period maximum of 1 to 2 months.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section style="background:#4250a0; color:#fff; min-height:500px; display:flex; align-items:center;">
+        <div class="container py-5">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h2 class="fw-bold mb-4" style="color:#fff;">Exciting Feature of <span style="color:#ffe066;">UzTech</span></h2>
+                    <p class="mb-4" style="font-size:1.1rem;">
+                        The striking features of the Jibika Plexus are illuminated by prolonged practical experience. We are releasing new versions regularly with some additional features added.
+                    </p>
+                    <ul class="mb-0" style="font-size:1rem;">
+                        <li>Extreme faster attendance process & payroll generate.</li>
+                        <li>Multiple compliance documentation simultaneously.</li>
+                        <li>Multiple layers' approval for all manual entries.</li>
+                        <li>Mobile & tab responsive and use like the mobile app.</li>
+                        <li>Appropriate usage of Logo, Photo, Sign & QR code.</li>
+                        <li>Performance appraisal by custom criteria & auto increment.</li>
+                        <li>Multi-layer access privilege and unlimited user.</li>
+                        <li>Unlimited business intelligence reports adding facility by user.</li>
+                        <li>Unlimited shift plan and rostering multiple shifts simultaneously.</li>
+                        <li>All operation settings based, no need to customize frequently.</li>
+                        <li>Used Oracle database to ensure the highest security and fastness.</li>
+                        <li>All buyers' audit-related document customizes the facility.</li>
+                        <li>Notification by Email, Mobile SMS and task reminder notice.</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 text-center">
+                    <img src="https://www.digitalhrms.com/blogs/assets/uploads/10_Best_Things_to_Consider_In_HRMS_Your_Ultimate_Guide_to_Best_HRMS_Software!.png" alt="Jibika Features Illustration" class="img-fluid" style="max-width: 400px;">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="py-5 bg-light">
+        <div class="container">
+            <h2 class="mb-5 text-center">We are always <span style="color:#4250a0;" class="fw-bold">Up to Date</span></h2>
+            <div class="row g-4">
+                <div class="col-md-6">
+                    <div class="d-flex align-items-start mb-4">
+                        <div class="me-3">
+                            <span style="background:#4250a0; border-radius:50%; width:80px; height:80px; display:flex; align-items:center; justify-content:center;">
+                                <svg width="48" height="48" fill="none" viewBox="0 0 24 24"><rect width="24" height="24" fill="none"/><path d="M5 5h14v14H5V5zm2 2v10h10V7H7zm2 2h6v6H9V9z" fill="#222"/><path d="M9 13V9h6v4H9z" fill="#222"/></svg>
+                            </span>
+                        </div>
+                        <div>
+                            <h5 class="fw-bold mb-1">On time Gov. gazette update</h5>
+                            <p class="mb-0 small">UzTech is continuously updated in alignment with the latest official government gazette notifications, ensuring accurate and on-time compliance.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start mb-4">
+                        <div class="me-3">
+                            <span style="background:#4250a0; border-radius:50%; width:80px; height:80px; display:flex; align-items:center; justify-content:center;">
+                                <svg width="48" height="48" fill="none" viewBox="0 0 24 24"><rect width="24" height="24" fill="none"/><path d="M7 17l5-5 5 5M7 7h10" stroke="#222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </span>
+                        </div>
+                        <div>
+                            <h5 class="fw-bold mb-1">Quick error correction</h5>
+                            <p class="mb-0 small">UzTech ensures system reliability through proactive bug fixes and rapid error resolution.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start mb-4">
+                        <div class="me-3">
+                            <span style="background:#4250a0; border-radius:50%; width:80px; height:80px; display:flex; align-items:center; justify-content:center;">
+                                <svg width="48" height="48" fill="none" viewBox="0 0 24 24"><rect width="24" height="24" fill="none"/><path d="M6 19V5h12v14H6zm2-2h8V7H8v10z" fill="#222"/></svg>
+                            </span>
+                        </div>
+                        <div>
+                            <h5 class="fw-bold mb-1">Internal Audit</h5>
+                            <p class="mb-0 small">UzTech features a built-in internal audit system, empowering management with transparent oversight and operational control.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="d-flex align-items-start mb-4">
+                        <div class="me-3">
+                            <span style="background:#4250a0; border-radius:50%; width:80px; height:80px; display:flex; align-items:center; justify-content:center;">
+                                <svg width="48" height="48" fill="none" viewBox="0 0 24 24"><rect width="24" height="24" fill="none"/><path d="M12 17a5 5 0 100-10 5 5 0 000 10z" stroke="#222" stroke-width="2"/><path d="M19.07 4.93a10 10 0 11-14.14 0" stroke="#222" stroke-width="2"/></svg>
+                            </span>
+                        </div>
+                        <div>
+                            <h5 class="fw-bold mb-1">Support any attendance device</h5>
+                            <p class="mb-0 small">UzTech offers seamless integration with a wide range of multi-brand attendance devices, ensuring smooth and flexible attendance management.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start mb-4">
+                        <div class="me-3">
+                            <span style="background:#4250a0; border-radius:50%; width:80px; height:80px; display:flex; align-items:center; justify-content:center;">
+                                <svg width="48" height="48" fill="none" viewBox="0 0 24 24"><rect width="24" height="24" fill="none"/><circle cx="12" cy="12" r="8" stroke="#222" stroke-width="2"/><path d="M12 8v4l3 3" stroke="#222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </span>
+                        </div>
+                        <div>
+                            <h5 class="fw-bold mb-1">Less implementation time</h5>
+                            <p class="mb-0 small">UzTech is designed for rapid deployment, ensuring a smooth and efficient implementation process with minimal downtime.</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-start mb-4">
+                        <div class="me-3">
+                            <span style="background:#4250a0; border-radius:50%; width:80px; height:80px; display:flex; align-items:center; justify-content:center;">
+                                <svg width="48" height="48" fill="none" viewBox="0 0 24 24"><rect width="24" height="24" fill="none"/><path d="M17 11V7a5 5 0 00-10 0v4M7 17h10M12 17v2" stroke="#222" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                            </span>
+                        </div>
+                        <div>
+                            <h5 class="fw-bold mb-1">Unlimited Shift Roster</h5>
+                            <p class="mb-0 small">UzTech offers dynamic management of unlimited shift rosters, tailored to complex workforce scheduling with ease and flexibility.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <p id="demo11"></p>
+    <P id ="testScript"></P>
     <!-- Footer -->
     <footer>
         <div class="container text-center">
@@ -255,6 +419,23 @@
     <div id="about" style="display:none;"></div>
     <div id="terms" style="display:none;"></div>
     <div id="gallery" style="display:none;"></div>
+   
+    <script>
+        let currentYear = new Date().getFullYear();
+        let number = 10;
+        let result = number * 2; 
+        document.getElementById("testScript").innerHTML = currentYear + "This is a test script to check if the script tag is working properly." + " The result of multiplying " + number + " by 2 is: " + result;
+    </Script>
+    <Script>
+
+      //  document.getElementById("demo11").innerHTML = "jasdfjdsjfbsjdh ";
+        const name="UZZAL Biswas";
+        const profession="software engineer";
+        document.getElementById("demo11").innerHTML = "My name is " + name + " and I am a " + profession;
+      //  document.getElementById("demo11").innerHTML = "jasdfjdsjfbsjdh ";
+        //document.write("My name is " + name + " and I am a " + profession) ;
+
+    </Script>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
