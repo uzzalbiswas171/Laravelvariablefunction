@@ -246,7 +246,7 @@
                         <span class="fw-bold" style="color:#4250a0;">HR software in Bangladesh</span>. Our goal to make it 100% system based payroll software with your help.
                     </p>
                     <p>
-                        In anticipation of your valuable contribution to Jibika family.<br>
+                        In anticipation of your valuable contribution to UzTech family.<br>
                         Discover our best ever services
                     </p>
                     <div class="d-flex gap-3 mt-4">
@@ -283,7 +283,7 @@
                         <li>• Training on payroll software and providing skilled operators.</li>
                         <li>• All type of attendance device integration facility to UzTech.</li>
                         <li>• Providing attendance device with warranty and free service.</li>
-                        <li>• Providing dedicated Jibika expert at implementation period.</li>
+                        <li>• Providing dedicated UzTech expert at implementation period.</li>
                         <li>• Software implementation period maximum of 1 to 2 months.</li>
                     </ul>
                 </div>
@@ -296,7 +296,7 @@
                 <div class="col-md-6">
                     <h2 class="fw-bold mb-4" style="color:#fff;">Exciting Feature of <span style="color:#ffe066;">UzTech</span></h2>
                     <p class="mb-4" style="font-size:1.1rem;">
-                        The striking features of the Jibika Plexus are illuminated by prolonged practical experience. We are releasing new versions regularly with some additional features added.
+                        The striking features of the UzTech are illuminated by prolonged practical experience. We are releasing new versions regularly with some additional features added.
                     </p>
                     <ul class="mb-0" style="font-size:1rem;">
                         <li>Extreme faster attendance process & payroll generate.</li>
@@ -315,7 +315,7 @@
                     </ul>
                 </div>
                 <div class="col-md-6 text-center">
-                    <img src="https://www.digitalhrms.com/blogs/assets/uploads/10_Best_Things_to_Consider_In_HRMS_Your_Ultimate_Guide_to_Best_HRMS_Software!.png" alt="Jibika Features Illustration" class="img-fluid" style="max-width: 400px;">
+                    <img src="https://www.digitalhrms.com/blogs/assets/uploads/10_Best_Things_to_Consider_In_HRMS_Your_Ultimate_Guide_to_Best_HRMS_Software!.png" alt="UzTech Features Illustration" class="img-fluid" style="max-width: 400px;">
                 </div>
             </div>
         </div>
